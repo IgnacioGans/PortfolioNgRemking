@@ -1,0 +1,5 @@
+.rk-scroll{
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 500px;
+}
